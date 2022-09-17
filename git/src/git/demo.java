@@ -5,6 +5,7 @@ public class demo {
 public void m1()
 {
 	System.out.println("manish");
+	System.out.println("nish");
 	}
 public void M2()
 {
